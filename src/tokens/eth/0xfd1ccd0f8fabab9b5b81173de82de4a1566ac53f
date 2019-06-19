@@ -1,0 +1,31 @@
+{
+  "symbol": "ECO",
+  "name": "ECOSCU",
+  "type": "ERC20",
+  "address": "0xfd1ccd0f8fabab9b5b81173de82de4a1566ac53f",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://ecosc.io/",
+  "logo": {
+    "src": "https://www.ecosc.io/img/ECOSC-LOGO.png",
+    "width": 128,
+    "height": 128,
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@ecosc.io", "url": "https://ecosc.io/" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/ecoscpvtltd/ECOSCU",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/ecosc-pvt-ltd/",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/ECOSC_Oil",
+    "twitter": "https://twitter.com/IoEcosc",
+    "youtube": "https://www.youtube.com/channel/UC0XYh-pzhiqThXLH48tLFDg"
+  }
+}
